@@ -264,3 +264,10 @@ pip-log.txt
 #################
 
 *.userprefs
+
+#################
+## Node.js
+#################
+
+dist/
+node_modules/
